@@ -1,16 +1,43 @@
-### Hi there 👋
+<h2>Hello, I'm Edgar Norberg! <img src="https://github.com/ShinestStar1990/ShinestStar1990/blob/main/public/img/smario.gif" width="50"></h2>
+<img align='right' src="https://github.com/ShinestStar1990/ShinestStar1990/blob/main/public/img/user.gif" width="230">
+<p><em>FrontEnd Developer <img src="https://github.com/ShinestStar1990/ShinestStar1990/blob/main/public/img/working_cat.gif" width="30"> 
+</em></p>
 
-<!--
-**ShinestStar1990/ShinestStar1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/ShinestStar1990/ShinestStar1990/blob/main/public/img/catty.gif" width="50"> A little more about me...
 
-Here are some ideas to get you started:
+```javascript
+var skills = {
+  code: ["Javascript", "Typescript", "PHP", "Python"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+    frontEnd: {
+      js: [
+        "React",
+        "Vue",
+        "Redux",
+        "Redux-Thunk",
+        "Redux-Saga",
+        "Nextjs",
+      ],
+      css: [
+        "bootstrap", 
+        "Material UI", 
+        "Ant Design", 
+        "Tailwind CSS", 
+        "SCSS"
+        ],
+    },
+    backEnd: {
+      js: ["node", "express"],
+      php: ["laravel", "wordpress", "codeigniter"]
+    },
+    databases: ["mongodb", "mysql", "postgresql"]
+  },
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😊<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+
+## <!-- // GitHub Readme Stats -->
+
+I'm an experienced Full-stack Developer with 7+ years of expertise and a solid background in UI/UX and front-end development. Proficient in React.js, Vue.js, Express.js, Node.js, Figma, HTML, CSS, JavaScript, jQuery, Bootstrap, Laravel, CodeIgniter and pure PHP. My comprehensive skill set allows me to create not only efficient and maintainable codebases but also intuitive and visually appealing user interfaces. I've developed systems from simple projects to complex enterprise-level solutions.
